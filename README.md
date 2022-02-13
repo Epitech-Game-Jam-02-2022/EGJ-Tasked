@@ -23,3 +23,5 @@ There are several levels and several tasks to do.
 To fulfill the tasks, you have to find the objects linked to the tasks (outlined in white), then start the process by interacting with it, and then when the loadbar is full, you will have to interact with it again to complete the task.
 
 ***Thank you for reading, have a nice time playing Tasked!***
+
+![new](https://user-images.githubusercontent.com/91880329/153772993-7e7591ca-ace6-4458-8901-de97f87f9e8a.png)
